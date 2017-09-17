@@ -1,0 +1,7 @@
+{
+    
+    "require": {
+        "league/plates": "^3.3",
+        "mpdf/mpdf": "^6.1"
+    }
+}
